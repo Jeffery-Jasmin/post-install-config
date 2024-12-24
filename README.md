@@ -31,8 +31,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<h2>Step</h2>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <div style={{display:"Flex"}}><img src="https://i.imgur.com/tDK2T78.png" height="80%" width="80%" alt="Roles"/>
+  <p>Create a new Role<p/>
+  <img src="https://i.imgur.com/fOMmNdU.png" height="80%" width="80%" alt="Departments"/>
+ <p>Create a new Department <p/>
+ <img src="https://i.imgur.com/nNVh44j.png" height="80%" width="80%" alt="Teams"/>
+  <p>Create a new Team<p/>
+ </div>
+ 
 </p>
 <p>
 Configure Roles, Departments, and Teams
