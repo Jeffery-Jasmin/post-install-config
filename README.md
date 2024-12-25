@@ -59,7 +59,10 @@ Example Team: Online Banking (includes agents from multiple departments).
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SESRGhZ.png" height="80%" width="80%" alt="Users"/>
+</p>
+<p>
+<img src="https://i.imgur.com/WbiHLZR.png" height="80%" width="80%" alt="Agent"/>
 </p>
 <p>
  Add Agents and Users
@@ -79,7 +82,7 @@ Ken (customer).
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T7xvM8E.png" height="80%" width="80%" alt="SLA"/>
 </p>
 <p>
 Configure SLA Policies and Help Topics
